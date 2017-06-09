@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Repository>
+	<Objects>
+		<Object>
+			<ObjectName>COMM_SEARCH_FIELD</ObjectName>
+			<ID>SearchBoxID</ID>
+			<Name>SearchBoxName</Name>
+			<ClassName>SearchBoxName</ClassName>
+			<CssSelector>SelectMe</CssSelector>
+			<CssSelector2>Select Attribute 2</CssSelector2>
+			<CssSelector3>Select Attribute 3</CssSelector3>
+			<LinkText>SearchBoxName</LinkText>
+			<PartialLinkText>SearchBoxName</PartialLinkText>
+			<TagName>SearchBoxName</TagName>
+			<XPath></XPath>
+			<ithInMultiple></ithInMultiple>
+			<ContainsText></ContainsText>
+			<AttributeKey1></AttributeKey1>
+			<AttributeValue1></AttributeValue1>
+			<AttributeKey2></AttributeKey2>
+			<AttributeValue2></AttributeValue2>
+			<IsParent>0</IsParent>
+			<Value></Value>
+			<SQL></SQL>
+			<Child>
+				<ID>SearchBoxID</ID>
+				<Name>SearchBoxName</Name>
+				<ClassName>SearchBoxName</ClassName>
+				<CssSelector>SelectMe</CssSelector>
+				<CssSelector2>Select Attribute 2</CssSelector2>
+				<CssSelector3>Select Attribute 3</CssSelector3>
+				<LinkText>SearchBoxName</LinkText>
+				<PartialLinkText>SearchBoxName</PartialLinkText>
+				<TagName>SearchBoxName</TagName>
+				<XPath></XPath>
+				<ithInMultiple>0</ithInMultiple>
+				<ContainsText></ContainsText>
+				<AttributeKey1></AttributeKey1>
+				<AttributeValue1></AttributeValue1>
+				<AttributeKey2></AttributeKey2>
+				<AttributeValue2></AttributeValue2>
+				<Value></Value>
+				<SQL></SQL>
+			</Child>
+		</Object>
+		<Object>
+			<ObjectName>COMM_SEARCH_BUTTON</ObjectName>
+			<ID>SearchButtonID</ID>
+			<Name>SearchButtonName</Name>
+			<ClassName>SearchBoxName</ClassName>
+			<CssSelector>SelectMe</CssSelector>
+			<CssSelector2>Select Attribute 2</CssSelector2>
+			<CssSelector3>Select Attribute 3</CssSelector3>
+			<LinkText>SearchBoxName</LinkText>
+			<PartialLinkText>SearchBoxName</PartialLinkText>
+			<TagName>SearchBoxName</TagName>
+			<XPath></XPath>
+			<ithInMultiple></ithInMultiple>
+			<ContainsText></ContainsText>
+			<AttributeKey1></AttributeKey1>
+			<AttributeValue1></AttributeValue1>
+			<AttributeKey2></AttributeKey2>
+			<AttributeValue2></AttributeValue2>
+			<IsParent></IsParent>
+			<Value></Value>
+			<SQL></SQL>
+		</Object>
+	</Objects>
+</Repository>

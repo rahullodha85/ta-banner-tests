@@ -1,0 +1,5 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.mobile.s5a.ProductArray.TC02_08,Cartridges Search Page,
+2,1,com.hbcd.testscript.mobile.s5a.ProductArray.TC02_47,"Refine By Color, size, price and Designer",
+3,1,com.hbcd.testscript.mobile.s5a.ProductArray.TC06_03,Top Nav validations,
+4,1,com.hbcd.testscript.mobile.s5a.ProductArray.TC02_55,Search by Keyword and validate the keyword being present at PA,

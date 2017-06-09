@@ -1,0 +1,11 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.off5th.productarray.TC02_08,Cartidges Search Page: Validate SortBy Refine By and Breadcrumbs,
+2,1,com.hbcd.testscript.off5th.productarray.TC02_13,Clickable Brand Links,
+3,1,com.hbcd.testscript.off5th.productarray.TC02_47,Refine By color size price and designer,
+4,1,com.hbcd.testscript.off5th.productarray.TC02_52,Click Search Categories,
+5,1,com.hbcd.testscript.off5th.productarray.TC02_53,Search by Category,
+6,1,com.hbcd.testscript.off5th.productarray.TC02_54,Search - GiftCard,"{""skuListInfo"":{""skuList"":[""0499535450471""]},""loginInfo"":{""email"":""checkoutscen02@saks.com"",""password"":""test123""}}"
+7,1,com.hbcd.testscript.off5th.productarray.TC02_55,Search by Keyword,
+8,1,com.hbcd.testscript.off5th.productarray.TC02_56,Search with Root Level search,
+9,1,com.hbcd.testscript.off5th.productarray.TC05_02,SEO,
+10,1,com.hbcd.testscript.off5th.productarray.TC06_03,Top Nav,

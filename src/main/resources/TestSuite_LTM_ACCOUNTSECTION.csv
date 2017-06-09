@@ -1,0 +1,11 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,0,com.hbcd.testscript.s5a.accountSection.Scen01,"Welcome, Sign In dropdown without Signing in",
+2,0,com.hbcd.testscript.s5a.accountSection.Scen02,First time shopper and create account ,
+3,0,com.hbcd.testscript.s5a.accountSection.Scen03,"Returning shopper
+Login and Logout from account and Logout from top nav Sign_in drop-down","{""loginInfo"":{""email"":""testn11@test.com"",""password"":""12345a""}}"
+4,0,com.hbcd.testscript.s5a.accountSection.Scen04,"Create account and
+enter shipping address ",
+5,0,com.hbcd.testscript.s5a.accountSection.Scen05,"Create account and
+enter billing address ",
+6,1,com.hbcd.testscript.s5a.accountSection.Scen06,"Create account and
+enter default payment ","{""creditCardInfo"":{""type"":[""MasterCard""],""number"":[""5444009999222205""], ""cvv"":[""1234""], ""expMonth"":[""07 - July""], ""expYear"":[""2017""]}}"

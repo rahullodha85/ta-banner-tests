@@ -1,0 +1,5 @@
+ObjectName,ID,Name,ClassName,CssSelector,CssSelector2,CssSelector3,LinkText,PartialLinkText,TagName,XPath,ithInMultiple,ContainsText,AttributeKey1,AttributeValue1,AttributeKey2,AttributeValue2,IsParent,Value,SQL,UserDefinedWaitTime,ThreadSleepWaitTime,ReferenceDataID,UnUseColumn1,UnUseColumn2,UnUseColumn3,Child_ID,Child_Name,Child_ClassName,Child_CssSelector,Child CssSelector 2,Child_CssSelector 3,Child_LinkText,Child_PartialLinkText,Child_TagName,Child_XPath,Child_ithElement,Child_ContainsText,Child_AttributeKey1,Child_AttributeValue1,Child_AttributeKey2,Child_AttributeValue2,Child_Value,Child_SQL,Child_UserDefinedWaitTime,Child_ThreadSleepWaitTime,Child_ReferenceDataID,Child_UnUseColumn1,Child_UnUseColumn2,Child_UnUseColumn3
+MultipleToggle,,,,,,,,,table,,,,,,,,1,,,,,,,,,,,,a[class='state-change'],,,,,,,,,,,,,,,,,,,,
+qaLogin,,USER_NAME,,,,,,,,,,,,,,,,qa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+qaPassword,,PASSWORD,,,,,,,,,,,,,,,,Saks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+qaLoginButton,,submit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

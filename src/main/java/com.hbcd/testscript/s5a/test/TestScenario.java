@@ -1,0 +1,35 @@
+package com.hbcd.testscript.s5a.test;
+
+import com.hbcd.banner.validations.s5a.ValidateConfirmation;
+import com.hbcd.banner.validations.s5a.ValidateRs;
+import com.hbcd.base.ScenarioChkout;
+import com.hbcd.commonbanner.base.pages.SearchFunction;
+
+public class TestScenario extends ScenarioChkout {
+	public void executeScript() throws Exception {
+
+		/*nav.SearchFor();
+=======
+		nav.SearchFor("");
+>>>>>>> .r4469
+		// nav.SearchFor("0468040012412");
+		pdp.AddToBag(1);
+		// nav.SearchFor(dataObject.getSkuListInfo().get(1));
+		// pdp.AddToBag(1);
+		pdp.EnterBag();
+		bag.ClickCheckout().LoginWith(dataObject.getEmailID());
+		shp.AddBillingAddress(dataObject.getAddress1(), dataObject.getState(),
+				dataObject.getCity(), dataObject.getZipCode(), false);
+		// shp.AddShippingAddress(false, dataObject.getAddress1(),
+		// dataObject.getState(), dataObject.getCity(), dataObject.getZipCode(),
+		// false);
+		
+		pap.AddNewCreditCard(3);// mastercard
+		pap.ClickCheckout();
+		ValidateRs.hasNoShippingMethodLink(dataObject.getSkuListInfo().get(0));
+		rsp.ClickPlaceOrder();
+		ValidateConfirmation.isThankYouPage();*/
+		
+//		ValidateConfirmation.hasCreditCard(Storage.get("ccNumber"));
+	}
+}

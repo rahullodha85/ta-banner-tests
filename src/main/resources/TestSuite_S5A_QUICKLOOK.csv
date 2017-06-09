@@ -1,0 +1,6 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.s5a.quicklook.Scen01,Checkout  -  Item is in Stock on the Web and in Store,"{""skuListInfo"":{""skuList"":[""0428743782846""]}}"
+2,1,com.hbcd.testscript.s5a.quicklook.Scen05,Product Array  - Item is in Stock on the Web and in Store,"{""skuListInfo"":{""skuList"":["" 0428736830206""]}}"
+3,1,com.hbcd.testscript.s5a.quicklook.Scen10,Checkout - Edit Item Rendering,"{""skuListInfo"":{""skuList"":[""0428793785004""]}}"
+4,1,com.hbcd.testscript.s5a.quicklook.Scen12,Checkout - Quick look overlay validation,"{""skuListInfo"":{""skuList"":[""0400088413678""]}}"
+5,1,com.hbcd.testscript.s5a.quicklook.Scen13,Product Array - Quick look overlay validation,"{""skuListInfo"":{""skuList"":["" 0400090917152""]}}"

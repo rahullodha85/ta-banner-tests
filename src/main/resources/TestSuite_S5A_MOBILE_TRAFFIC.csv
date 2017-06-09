@@ -1,0 +1,2 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,30,com.hbcd.testscript.s5a.saksSignalMobile.oldMobileScripts.signalMobileOld.Scen01_UnregCheckoutMobile,Full Checkout with regular item and validate the order number and validate Thank you Page,

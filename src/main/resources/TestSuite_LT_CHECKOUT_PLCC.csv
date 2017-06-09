@@ -1,0 +1,2 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.lt.ltm_checkout_plcc.Scen01,Checkout with LT PLCC,"{""skuListInfo"":{""skuList"":[""0500062504618"",""0500064793391""]},""loginInfo"":{""email"":""checkoutplcc01@saks.com"",""password"":""test123""},""addressInfo"":{""address1"":[""70 Alvord Lane""],""city"":[""Stamford""],""state"":[""CT""],""country"":[""United States""],""zipCode"":[""06902""]}}"

@@ -1,0 +1,16 @@
+<TestScripts>
+	<Script>
+		<ID>1</ID>
+		<SetToRun>1</SetToRun>
+		<ScriptClassName>Test1</ScriptClassName>
+		<Description>Test 1 is Running</Description>
+		<DataReferenceID>1</DataReferenceID>
+	</Script>
+	<Script>
+		<ID>2</ID>
+		<SetToRun>1</SetToRun>
+		<ScriptClassName>Test2</ScriptClassName>
+		<Description>Test 2 is Running</Description>
+		<DataReferenceID>2</DataReferenceID>
+	</Script>
+</TestScripts>

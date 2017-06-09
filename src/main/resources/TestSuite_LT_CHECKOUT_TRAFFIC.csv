@@ -1,0 +1,2 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,40,com.hbcd.testscript.lt.syntheticMonitoring.Scen_SyncMonitoring,Full Checkout with regular item and validate the order number and validate “Thank you” Page,"{""skuListInfo"":{""skuList"":[""0500043739697"",""0500087956496""]},""loginInfo"":{""email"":""checkoutscen35@saks.com"",""password"":""test123""},""addressInfo"":{""address1"":[""70 Alvord Lane""],""city"":[""Stamford""],""state"":[""Connecticut""],""country"":[""United States""],""zipCode"":[""06902""]}}"

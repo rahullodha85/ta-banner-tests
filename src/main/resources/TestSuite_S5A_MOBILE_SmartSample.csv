@@ -1,0 +1,5 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.mobile.s5a.SmartSample.Scen01,Regular Item less than $500- Guest User,"{""skuListInfo"":{""skuList"":[""0468026535607""]},""loginInfo"":{""email"":""smartsample02@saks.com"",""password"":""test123""}}"
+2,1,com.hbcd.testscript.mobile.s5a.SmartSample.Scen02,Regular Item less than $500- Registered User,"{""skuListInfo"":{""skuList"":[""0468026535607""]},""loginInfo"":{""email"":""smartsample02@saks.com"",""password"":""test123""}}"
+3,1,com.hbcd.testscript.mobile.s5a.SmartSample.Scen01,Delux Item - More than $500- Guest User,"{""skuListInfo"":{""skuList"":[""0400089160457""]},""loginInfo"":{""email"":""smartsample02@saks.com"",""password"":""test123""}}"
+4,1,com.hbcd.testscript.mobile.s5a.SmartSample.Scen02,Delux Item - More than $500- Registered User,"{""skuListInfo"":{""skuList"":[""0400089160457""]},""loginInfo"":{""email"":""smartsample02@saks.com"",""password"":""test123""}}"

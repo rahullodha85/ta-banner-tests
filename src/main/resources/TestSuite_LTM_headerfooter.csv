@@ -1,0 +1,2 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.commonplatform.ltmigration.reskinning.B16052.Scen01,"AS a LT product owner I WANT top nav to be styled as per LT dtyle guideSO THAT LT customers have consistent experienceWHEN shopping on LT site x Change color of top nav as per LT style guidex Remove 'chat' linkx Change phone number from 1.877.551.7257 to 1.800.223.7440x Change 'Saks Bag' to ""Bag'",

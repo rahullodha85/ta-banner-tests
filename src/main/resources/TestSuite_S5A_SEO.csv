@@ -1,0 +1,8 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.commonplatform.SEO.Scen01,URL Dimension:WA PA&Editorial PA,
+2,1,com.hbcd.testscript.commonplatform.SEO.Scen02,URL Dimension:ShopbyDesigner,
+3,1,com.hbcd.testscript.commonplatform.SEO.Scen03,URL Dimension:DLP Product Array,
+4,1,com.hbcd.testscript.commonplatform.SEO.Scen04,URL Dimension:Designer Product Array,
+5,1,com.hbcd.testscript.commonplatform.SEO.Scen05,URL Dimension:Fall Runway,
+6,1,com.hbcd.testscript.commonplatform.SEO.Scen06,"Refine BY color&Size:WA-Dresses-Jackets,Blazers",
+7,1,com.hbcd.testscript.commonplatform.SEO.Scen07,Refine BY color&Size:WA-Dresses-Vests,

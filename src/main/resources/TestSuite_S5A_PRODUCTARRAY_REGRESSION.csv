@@ -1,0 +1,13 @@
+ID,SetToRun,ScriptClassName,Description,DataReferenceID
+1,1,com.hbcd.testscript.s5a.productarray.TC2_08,Cartidges Search Page: Validate SortBy Refine By and Breadcrumbs,
+2,1,com.hbcd.testscript.s5a.productarray.TC2_13,Clickable Brand Links,
+3,1,com.hbcd.testscript.s5a.productarray.TC6_03,Top Nav,
+4,1,com.hbcd.testscript.s5a.productarray.TC6_02,Click Search Categories,
+5,1,com.hbcd.testscript.s5a.productarray.TC5_02,Refine By designer and color,
+6,1,com.hbcd.testscript.s5a.productarray.TC2_52,Search by BrandName Prada,
+7,1,com.hbcd.testscript.s5a.productarray.TC2_53,Search Category,
+8,1,com.hbcd.testscript.s5a.productarray.TC02_54,Search - GiftCard,"{""skuListInfo"":{""skuList"":[""0499932227409""]},""loginInfo"":{""email"":""checkoutscen02@saks.com"",""password"":""test123""}}"
+9,1,com.hbcd.testscript.s5a.productarray.TC2_55,Search - keyword,
+10,1,com.hbcd.testscript.s5a.productarray.TC02_56,Search By Root level,
+11,1,com.hbcd.testscript.s5a.productarray.TC02_47,Refine By color size price and designer,
+12,1,com.hbcd.testscript.s5a.productarray.TC01_AnyLinks,Clicks Any Links in PA from HomePage,
